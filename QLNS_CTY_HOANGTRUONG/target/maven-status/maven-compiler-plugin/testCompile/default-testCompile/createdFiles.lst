@@ -1,0 +1,8 @@
+com\project\vn\dto\EmployeeTest.class
+com\project\vn\dto\RecuitmentTest.class
+com\project\vn\dao\EmployeeDAOTest.class
+com\project\vn\dao\RecuitmentDAOTest.class
+com\project\vn\dao\SalaryDAOTest.class
+com\project\vn\dto\ContractTest.class
+com\project\vn\dao\ContractDAOTest.class
+com\project\vn\dto\SalaryTest.class

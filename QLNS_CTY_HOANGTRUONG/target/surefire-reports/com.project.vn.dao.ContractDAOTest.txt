@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.vn.dao.ContractDAOTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.837 s - in com.project.vn.dao.ContractDAOTest
